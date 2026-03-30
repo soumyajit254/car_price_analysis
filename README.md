@@ -8,7 +8,7 @@ The dataset was preprocessed using Python (Pandas, NumPy) to handle data type in
 
 Finally, a Power BI dashboard was built to visualize trends such as price variation by brand, fuel type, transmission, vehicle age, and usage (km driven). The dashboard includes KPI cards, interactive filters, and multiple visualizations to support data-driven decision making.
 
-![image alt](https://github.com/soumyajit254/car_price_analysis/blob/2b2efd67bf4241c267d4501e629b130db092a910/car_price_queries.sql)
+![image alt](https://github.com/soumyajit254/car_price_analysis/blob/ecef5d5df88bee4839a50512923d5155d96e3f69/Screenshot%202026-03-30%20195959.png)
 
 ###  Tools & Technologies
 
